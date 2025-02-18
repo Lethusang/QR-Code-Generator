@@ -1,5 +1,5 @@
-# Custom QR Code Generator
-A pure Java implementation of a QR code generator without external dependencies.
+# QR Code Generator
+A Java implementation of a QR code generator without external dependencies.
 
 ## Features
 - Custom QR matrix generation
